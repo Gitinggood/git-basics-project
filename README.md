@@ -1,2 +1,1 @@
-# git-basics-project
-learning git basics
+# my very first git project
